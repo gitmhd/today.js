@@ -1,0 +1,25 @@
+{
+  "name": "today.js",
+  "version": "1.0.0",
+  "description": "`TodayJS` is a library, extends you with useful methods for handling today-date in JavaScript.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitmhd/today.js.git"
+  },
+  "keywords": [
+    "today",
+    "date",
+    "today.js",
+    "time"
+  ],
+  "author": "Mohamed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gitmhd/today.js/issues"
+  },
+  "homepage": "https://github.com/gitmhd/today.js#readme"
+}
