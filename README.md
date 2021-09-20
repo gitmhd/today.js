@@ -33,13 +33,13 @@ Now, you are all set to use `TodayJS` in your project.
 Install the package in your project.
 
 ```
-npm install today.js --save
+npm install today-node --save
 ```
 
 Require the package.
 
 ```javascript
-const TodayJS = require("today.js");
+const TodayJS = require("today-node");
 ```
 
 Now, you are all set to use `TodayJS` in your project.
@@ -67,7 +67,7 @@ Now, you can use `TodayJS` methods, following is a table of `TodayJS` methods.
 ### Usage Example:
 
 ```javascript
-const TodayJS = require("today.js");
+const TodayJS = require("today-node");
 const today = new TodayJS();
 
 console.log(`Today's date is: ${today.day("week")}, ${today.month()} ${today.day("month")}, ${today.year()}`);
